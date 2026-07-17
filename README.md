@@ -14,10 +14,12 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
+| [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
