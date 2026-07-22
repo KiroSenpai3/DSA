@@ -22,6 +22,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KiroSenpai3/DSA/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KiroSenpai3/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
