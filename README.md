@@ -10,6 +10,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
@@ -46,4 +47,20 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
