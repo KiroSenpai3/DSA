@@ -54,10 +54,12 @@ var orangesRotting = function(grid) {
                 }
             }
         }
-        minutes++
+        if(queue.length){
+            minutes++
+        }
     }
 
     if(fresh) return -1
-    return minutes-1
+    return minutes
 
 };
