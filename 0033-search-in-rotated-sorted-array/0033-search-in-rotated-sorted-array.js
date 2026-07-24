@@ -10,7 +10,7 @@ var search = function(nums, target) {
         let mid = Math.floor((left + right) / 2)
         if(target == nums[mid]) return mid
         if(nums[left] <= nums[mid]){
-            if(target >= nums[left] && target <= nums[mid]){
+            if(target >= nums[left] && target < nums[mid]){
                 right = mid - 1
             }
             else{
@@ -18,7 +18,7 @@ var search = function(nums, target) {
             }
         }
         else{
-            if(target >= nums[mid + 1] && target <= nums[right]){
+            if(target > nums[mid] && target <= nums[right]){
                 left = mid + 1
             }
             else{
