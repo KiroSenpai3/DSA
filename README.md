@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KiroSenpai3/DSA/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -72,5 +73,6 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
