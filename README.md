@@ -10,6 +10,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
