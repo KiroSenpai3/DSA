@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
