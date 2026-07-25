@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/KiroSenpai3/DSA/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -84,8 +85,17 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
