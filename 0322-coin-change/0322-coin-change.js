@@ -3,25 +3,23 @@
  * @param {number} amount
  * @return {number}
  */
-var coinChange = function(coins, amount) {
-    let memo = new Map()
-    let solve = function(amount){
-        if(amount === 0) return 0
-        if(amount < 0) return Infinity
+var coinChange = function (coins, amount) {
 
-        if(memo.has(amount)) return memo.get(amount)
+    let dp = new Array(amount + 1).fill(Infinity)
+    dp[0] = 0
+
+    for (let i = 1; i <= amount; i++) {
 
         let answer = Infinity
 
-        for(let coin of coins){
-            answer = Math.min(1 + solve(amount - coin), answer)
+        for (let coin of coins) {
+            if (i - coin >= 0) {
+                answer = Math.min(1 + dp[i - coin], answer)
+            }
         }
 
-        memo.set(amount, answer)
-
-        return answer
+        dp[i] = answer
     }
-    let ans = solve(amount)
-    return ans === Infinity? -1 : ans
+    return dp[amount] === Infinity? -1 : dp[amount]
 
 };
