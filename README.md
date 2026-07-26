@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/KiroSenpai3/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KiroSenpai3/DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
