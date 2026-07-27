@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
+| [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
 ## Stack
 |  |
 | ------- |
