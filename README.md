@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
+| [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
+| [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Stack
 |  |
