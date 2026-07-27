@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0007-reverse-integer](https://github.com/KiroSenpai3/DSA/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KiroSenpai3/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions
 | ------- |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
