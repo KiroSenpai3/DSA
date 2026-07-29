@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KiroSenpai3/DSA/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/KiroSenpai3/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KiroSenpai3/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KiroSenpai3/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KiroSenpai3/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
