@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KiroSenpai3/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/KiroSenpai3/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KiroSenpai3/DSA/tree/master/0217-contains-duplicate) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KiroSenpai3/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KiroSenpai3/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KiroSenpai3/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KiroSenpai3/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
