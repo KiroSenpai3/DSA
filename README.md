@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
+| [1143-longest-common-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/1143-longest-common-subsequence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
