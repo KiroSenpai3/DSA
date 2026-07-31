@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KiroSenpai3/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
 | [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/1143-longest-common-subsequence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KiroSenpai3/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/KiroSenpai3/DSA/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
