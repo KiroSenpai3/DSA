@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/KiroSenpai3/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions
 | [0064-minimum-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/KiroSenpai3/DSA/tree/master/0221-maximal-square) |
+| [0867-transpose-matrix](https://github.com/KiroSenpai3/DSA/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -157,4 +159,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KiroSenpai3/DSA/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/KiroSenpai3/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
