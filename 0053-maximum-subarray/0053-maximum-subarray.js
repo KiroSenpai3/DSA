@@ -4,11 +4,11 @@
  */
 var maxSubArray = function(nums) {
 
-    let arr = []
+    let ans = nums[0]
     let sum  = 0
     for(let  i = 0; i < nums.length ; i++){
         sum = Math.max(sum + nums[i] , nums[i])
-        arr.push(sum)
+        ans = Math.max(sum , ans)
     }
-    return Math.max(...arr)
+    return ans
 };
