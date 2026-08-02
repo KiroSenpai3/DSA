@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/KiroSenpai3/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/1143-longest-common-subsequence) |
 ## Greedy
@@ -183,4 +186,8 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiroSenpai3/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/KiroSenpai3/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
