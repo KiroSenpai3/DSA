@@ -27,6 +27,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KiroSenpai3/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/KiroSenpai3/DSA/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
