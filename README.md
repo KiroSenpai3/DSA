@@ -16,6 +16,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KiroSenpai3/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/KiroSenpai3/DSA/tree/master/0053-maximum-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KiroSenpai3/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiroSenpai3/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KiroSenpai3/DSA/tree/master/0217-contains-duplicate) |
