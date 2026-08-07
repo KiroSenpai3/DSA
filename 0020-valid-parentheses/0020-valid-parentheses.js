@@ -9,7 +9,7 @@ var isValid = function(s) {
     map.set('{', '}')
     map.set('[', ']')
     for(let a of s){
-        if(a == '(' || a == '{' || a == '['){
+        if(map.has(a)){
             arr.push(a)
         }
         if(a == ')' || a == '}' || a == ']'){
