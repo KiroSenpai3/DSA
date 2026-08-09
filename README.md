@@ -69,6 +69,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiroSenpai3/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KiroSenpai3/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/KiroSenpai3/DSA/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiroSenpai3/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/KiroSenpai3/DSA/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
