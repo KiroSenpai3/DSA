@@ -45,6 +45,7 @@ A collection of LeetCode questions
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KiroSenpai3/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
@@ -102,12 +103,14 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KiroSenpai3/DSA/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KiroSenpai3/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KiroSenpai3/DSA/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KiroSenpai3/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |
