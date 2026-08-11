@@ -35,6 +35,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KiroSenpai3/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/KiroSenpai3/DSA/tree/master/0739-daily-temperatures) |
@@ -99,11 +100,13 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/KiroSenpai3/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/KiroSenpai3/DSA/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KiroSenpai3/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KiroSenpai3/DSA/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
