@@ -20,6 +20,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/KiroSenpai3/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KiroSenpai3/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KiroSenpai3/DSA/tree/master/0063-unique-paths-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiroSenpai3/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KiroSenpai3/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/KiroSenpai3/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KiroSenpai3/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KiroSenpai3/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KiroSenpai3/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KiroSenpai3/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KiroSenpai3/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KiroSenpai3/DSA/tree/master/0062-unique-paths) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/KiroSenpai3/DSA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
