@@ -12,8 +12,6 @@ var minSubArrayLen = function(target, nums) {
 
         sum += nums[i]
 
-        if(left == 0 && i == nums.length - 1 && sum < target) return 0
-
         while(sum >= target){
             ans = Math.min(ans, i - left + 1)
             sum -= nums[left]
@@ -22,5 +20,5 @@ var minSubArrayLen = function(target, nums) {
         
     }
 
-    return ans
+    return ans === Infinity ? 0 : ans
 };
