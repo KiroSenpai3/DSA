@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/KiroSenpai3/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KiroSenpai3/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KiroSenpai3/DSA/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/KiroSenpai3/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/KiroSenpai3/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiroSenpai3/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KiroSenpai3/DSA/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/KiroSenpai3/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Game Theory
@@ -222,6 +225,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
 ## Bracket Sequences
 |  |
