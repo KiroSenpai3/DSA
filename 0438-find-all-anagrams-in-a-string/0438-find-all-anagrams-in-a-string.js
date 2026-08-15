@@ -4,6 +4,9 @@
  * @return {number[]}
  */
 var findAnagrams = function(s, p) {
+    
+    if (p.length > s.length) return []
+
     let map = new Map()
     let window = new Map()
     let left = 0
