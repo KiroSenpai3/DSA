@@ -65,6 +65,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KiroSenpai3/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions
 | [0071-simplify-path](https://github.com/KiroSenpai3/DSA/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KiroSenpai3/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/KiroSenpai3/DSA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiroSenpai3/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KiroSenpai3/DSA/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KiroSenpai3/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Game Theory
