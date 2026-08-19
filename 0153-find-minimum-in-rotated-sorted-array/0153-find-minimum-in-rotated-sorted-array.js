@@ -5,18 +5,18 @@
 var findMin = function(nums) {
     let left = 0
     let right = nums.length - 1
-    let mid
+    let mi
     if(nums[left] < nums[right]) return nums[0]
 
     while(left < right){
         if(left + 1 == right) break
-        mid = Math.floor((left + right) / 2)
-        if(nums[mid] < nums[left]){
-            right = mid
+        mi = Math.floor((left + right) / 2)
+        if(nums[mi] < nums[left]){
+            right = mi
             continue
         }
         else{
-            left = mid
+            left = mi
         }
     }
 
