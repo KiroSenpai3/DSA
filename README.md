@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | [0992-subarrays-with-k-different-integers](https://github.com/KiroSenpai3/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KiroSenpai3/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KiroSenpai3/DSA/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Combinatorics
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions
 | [0930-binary-subarrays-with-sum](https://github.com/KiroSenpai3/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KiroSenpai3/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Game Theory
 |  |
 | ------- |
@@ -268,8 +271,14 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KiroSenpai3/DSA/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KiroSenpai3/DSA/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
