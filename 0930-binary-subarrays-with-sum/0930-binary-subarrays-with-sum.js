@@ -6,6 +6,7 @@
 var numSubarraysWithSum = function (nums, goal) {
 
     let countSum = function (goal) {
+        if(goal < 0) return 0
         let left = 0
         let sum = 0
         let ans = 0
@@ -24,5 +25,5 @@ var numSubarraysWithSum = function (nums, goal) {
         return ans
     }
 
-    return goal !== 0 ? countSum(goal) - countSum(goal - 1) : countSum(goal)
+    return countSum(goal) - countSum(goal - 1)
 };
