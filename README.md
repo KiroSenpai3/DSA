@@ -55,6 +55,7 @@ A collection of LeetCode questions
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KiroSenpai3/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions
 | [0904-fruit-into-baskets](https://github.com/KiroSenpai3/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KiroSenpai3/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KiroSenpai3/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KiroSenpai3/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions
 | [0992-subarrays-with-k-different-integers](https://github.com/KiroSenpai3/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/KiroSenpai3/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bracket Sequences
 |  |
 | ------- |
