@@ -5,7 +5,7 @@
  */
 var minOperations = function(nums, x) {
     let left = 0
-    let target = 0  
+    let target   
     let sum = 0
     let ans = 0
     for(let right = 0; right < nums.length; right++){
