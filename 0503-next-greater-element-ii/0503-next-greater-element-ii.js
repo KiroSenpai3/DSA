@@ -3,28 +3,20 @@
  * @return {number[]}
  */
 var nextGreaterElements = function(nums) {
-     let n = nums.length;
-    let stack = [];
-    let ans = new Array(n).fill(-1);
-
-    for (let i = 0; i < 2 * n; i++) {
-
-        let index = i % n;
-
-        while (
-            stack.length &&
-            nums[index] > nums[stack[stack.length - 1]]
-        ) {
-            let prev = stack.pop();
-
-            ans[prev] = nums[index];
+    let stack = []
+    let n = nums.length
+    let ans = new Array(n).fill(-1)
+    for(let i = 0; i < (n * 2); i++){
+        let a = i%n
+        while(stack.length && nums[a] > nums[stack[stack.length-1]]){
+            let previousIndex = stack.pop()
+            ans[previousIndex] = nums[a]
         }
 
-        // Only put each actual index into the stack once
-        if (i < n) {
-            stack.push(index);
+        if(i < n){
+            stack.push(a)
         }
     }
 
-    return ans;
+    return ans
 };
