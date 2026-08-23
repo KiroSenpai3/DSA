@@ -93,6 +93,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/KiroSenpai3/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/KiroSenpai3/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/KiroSenpai3/DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/KiroSenpai3/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KiroSenpai3/DSA/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/KiroSenpai3/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KiroSenpai3/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/KiroSenpai3/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiroSenpai3/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
