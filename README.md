@@ -38,6 +38,7 @@ A collection of LeetCode questions
 | [0221-maximal-square](https://github.com/KiroSenpai3/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KiroSenpai3/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/KiroSenpai3/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/KiroSenpai3/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiroSenpai3/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/KiroSenpai3/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
