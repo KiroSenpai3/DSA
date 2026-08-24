@@ -9,13 +9,9 @@ var sortColors = function(nums) {
     let i = 0
 
     while(i <= right) {
-
-        // Find a 0 that is not already in the 0-region
         while(left <= right && nums[left] === 0) {
             left++
         }
-
-        // Find a 2 that is not already in the 2-region
         while(right >= left && nums[right] === 2) {
             right--
         }
