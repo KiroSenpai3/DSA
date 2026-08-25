@@ -56,6 +56,7 @@ A collection of LeetCode questions
 | [0904-fruit-into-baskets](https://github.com/KiroSenpai3/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KiroSenpai3/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0986-interval-list-intersections](https://github.com/KiroSenpai3/DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KiroSenpai3/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
+| [0986-interval-list-intersections](https://github.com/KiroSenpai3/DSA/tree/master/0986-interval-list-intersections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -319,4 +321,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KiroSenpai3/DSA/tree/master/0075-sort-colors) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/KiroSenpai3/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
