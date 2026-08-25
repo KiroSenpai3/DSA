@@ -106,6 +106,7 @@ A collection of LeetCode questions
 | [0438-find-all-anagrams-in-a-string](https://github.com/KiroSenpai3/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KiroSenpai3/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KiroSenpai3/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KiroSenpai3/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/KiroSenpai3/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/KiroSenpai3/DSA/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
