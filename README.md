@@ -54,6 +54,7 @@ A collection of LeetCode questions
 | [0867-transpose-matrix](https://github.com/KiroSenpai3/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/KiroSenpai3/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KiroSenpai3/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/KiroSenpai3/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## Counting
@@ -216,6 +218,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/KiroSenpai3/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/KiroSenpai3/DSA/tree/master/0986-interval-list-intersections) |
 ## Heap (Priority Queue)
 |  |
@@ -327,4 +331,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/KiroSenpai3/DSA/tree/master/0986-interval-list-intersections) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
