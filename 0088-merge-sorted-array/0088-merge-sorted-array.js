@@ -11,8 +11,7 @@ var merge = function(nums1, m, nums2, n) {
     let right1 = m - 1
     let right2 = n - 1
     while(count > 0){
-        if(n===0) break
-        if(right1 < 0 || m === 0){
+        if(right1 < 0){
             nums1[count-1] = nums2[right2]
             count--
             right2--
