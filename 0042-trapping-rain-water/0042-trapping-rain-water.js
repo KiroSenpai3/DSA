@@ -3,24 +3,32 @@
  * @return {number}
  */
 var trap = function(height) {
-    let stack = []
-    let n = height.length
-    let sum = 0
+    let Lmax = height[0]
+    let Rmax = height[height.length - 1]
+    let left = 0
+    let right = height.length - 1
+    let ans = 0
     
-    for(let i = 0; i < n; i++){
-        
-        while(stack.length && height[i] > height[stack[stack.length - 1]]){
-            let a = stack.pop()
-            if(!stack.length) break
-
-            let left = stack[stack.length - 1]
-            let width = i - left - 1
-
-            let waterHeight = Math.min(height[left], height[i]) - height[a]
-            sum += waterHeight * width
+    while(left <= right){
+        if(Lmax < Rmax){
+            if(height[left] > Lmax){
+                Lmax = height[left]
+            }
+            else{
+                ans += Lmax - height[left]
+            }
+            left++
         }
-        stack.push(i)
+        else{
+            if(height[right] > Rmax){
+                Rmax = height[right]
+            }
+            else{
+                ans += Rmax - height[right]
+            }
+            right--
+        }
     }
 
-    return sum
+    return ans
 };
