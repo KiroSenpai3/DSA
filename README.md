@@ -50,6 +50,7 @@ A collection of LeetCode questions
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
+| [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KiroSenpai3/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/KiroSenpai3/DSA/tree/master/0739-daily-temperatures) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/KiroSenpai3/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KiroSenpai3/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiroSenpai3/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KiroSenpai3/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/KiroSenpai3/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/KiroSenpai3/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 ## Recursion
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/KiroSenpai3/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/KiroSenpai3/DSA/tree/master/0986-interval-list-intersections) |
