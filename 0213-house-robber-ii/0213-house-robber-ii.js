@@ -17,5 +17,5 @@ var rob = function(nums) {
         return dp[dp.length - 1]
     }
 
-    return Math.max(houseRobber(nums.slice(0, nums.length - 1)), houseRobber(nums.slice(1)))
+    return Math.max(houseRobber(nums.slice(0, nums.length - 1)), houseRobber(nums.slice(1,nums.length)))
 };
