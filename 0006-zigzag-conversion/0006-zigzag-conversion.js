@@ -12,8 +12,8 @@ var convert = function(s, numRows) {
     let row = 0;
     let direction = 1; // 1 = down, -1 = up
 
-    for (let char of s) {
-        rows[row] += char;
+    for (let c of s) {
+        rows[row] += c;
 
         if (row === 0) {
             direction = 1;
