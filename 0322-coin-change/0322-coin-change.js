@@ -9,17 +9,13 @@ var coinChange = function (coins, amount) {
     dp[0] = 0
 
     for (let i = 1; i <= amount; i++) {
-
-        let answer = Infinity
-
         for (let coin of coins) {
-            if (i - coin >= 0) {
-                answer = Math.min(1 + dp[i - coin], answer)
+            if ((i - coin) >= 0) {
+                dp[i] = Math.min(dp[i], dp[i - coin] + 1)
             }
         }
-
-        dp[i] = answer
     }
+
     return dp[amount] === Infinity? -1 : dp[amount]
 
 };
