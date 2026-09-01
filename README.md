@@ -353,4 +353,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
