@@ -76,6 +76,7 @@ A collection of LeetCode questions
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KiroSenpai3/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KiroSenpai3/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions
 | [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KiroSenpai3/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions
 | [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KiroSenpai3/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KiroSenpai3/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Recursion
 |  |
 | ------- |
