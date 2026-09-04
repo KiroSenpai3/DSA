@@ -54,6 +54,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/KiroSenpai3/DSA/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/KiroSenpai3/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KiroSenpai3/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/KiroSenpai3/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KiroSenpai3/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/KiroSenpai3/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/KiroSenpai3/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/KiroSenpai3/DSA/tree/master/0904-fruit-into-baskets) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KiroSenpai3/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/KiroSenpai3/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KiroSenpai3/DSA/tree/master/1480-running-sum-of-1d-array) |
