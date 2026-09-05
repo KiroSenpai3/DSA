@@ -79,6 +79,7 @@ A collection of LeetCode questions
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KiroSenpai3/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/KiroSenpai3/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KiroSenpai3/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2404-most-frequent-even-element](https://github.com/KiroSenpai3/DSA/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions
 | [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/1143-longest-common-subsequence) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/KiroSenpai3/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KiroSenpai3/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/KiroSenpai3/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Bracket Sequences
 |  |
 | ------- |
