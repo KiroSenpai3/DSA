@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KiroSenpai3/DSA/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/KiroSenpai3/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KiroSenpai3/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KiroSenpai3/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
