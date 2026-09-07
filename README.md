@@ -33,6 +33,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/KiroSenpai3/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KiroSenpai3/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/KiroSenpai3/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KiroSenpai3/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KiroSenpai3/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KiroSenpai3/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0088-merge-sorted-array) |
@@ -390,4 +391,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KiroSenpai3/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KiroSenpai3/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KiroSenpai3/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
