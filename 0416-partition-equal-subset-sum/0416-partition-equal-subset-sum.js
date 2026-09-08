@@ -3,26 +3,20 @@
  * @return {boolean}
  */
 var canPartition = function(nums) {
-    
-    let total = nums.reduce((acc, i) => acc + i, 0)
+    let sum = nums.reduce((acc, n) => acc + n, 0)
 
-    if(total % 2 !== 0) return false
-    let target = total / 2
+    if (sum % 2 !== 0) return false
 
-    let dp = Array.from({length : nums.length} , () => new Array(target + 1))
+    let target = sum / 2
 
-    let solve = function (i, remaining) {
-        if(remaining === 0) return true
-        if(i === nums.length) return false
+    let dp = new Array(target + 1).fill(false)
+    dp[0] = true
 
-        if(dp[i][remaining] !== undefined) return  dp[i][remaining]
-
-        let take = solve(i+1, remaining - nums[i])
-        let skip = solve(i+1, remaining)
-        let result = take || skip 
-
-        dp[i][remaining] = result
-        return result
+    for (let num of nums) {
+        for (let j = target; j >= num; j--) {
+            dp[j] = dp[j] || dp[j - num]
+        }
     }
-    return solve(0, target)
+
+    return dp[target]
 };
