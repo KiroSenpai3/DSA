@@ -53,6 +53,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KiroSenpai3/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/KiroSenpai3/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/KiroSenpai3/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KiroSenpai3/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/KiroSenpai3/DSA/tree/master/0518-coin-change-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KiroSenpai3/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/KiroSenpai3/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/KiroSenpai3/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions
 | ------- |
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KiroSenpai3/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/KiroSenpai3/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KiroSenpai3/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -393,11 +396,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KiroSenpai3/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/KiroSenpai3/DSA/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KiroSenpai3/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/KiroSenpai3/DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/KiroSenpai3/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
