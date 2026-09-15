@@ -5,10 +5,10 @@
  */
 var kthGrammar = function(n, k) {
 
-    function recur(n, k) {
+    function recurn(n, k) {
         if (n === 1) return 0
 
-        let parent = recur(n - 1, Math.ceil(k / 2))
+        let parent = recurn(n - 1, Math.ceil(k / 2))
 
         if (k % 2 === 1) {
             return parent
@@ -17,5 +17,5 @@ var kthGrammar = function(n, k) {
         }
     }
 
-    return recur(n, k)
+    return recurn(n, k)
 };
