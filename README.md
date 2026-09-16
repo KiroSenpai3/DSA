@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/KiroSenpai3/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KiroSenpai3/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KiroSenpai3/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/KiroSenpai3/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KiroSenpai3/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
