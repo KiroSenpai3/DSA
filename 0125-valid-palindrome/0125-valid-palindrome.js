@@ -5,17 +5,19 @@
 var isPalindrome = function(s) {
     let string = 'abcdefghijklmnopqrstuvwxyz'
     let num = '0123456789'
-    let sen = s.toLowerCase()
-    let left = 0
-    let right = s.length - 1
-    while(left < right){
-        while(!string.includes(sen[left]) && left < s.length && !num.includes(sen[left])) left++
-        while(!string.includes(sen[right]) && right > -1 && !num.includes(sen[right])) right--
-        if(sen[left] === sen[right]){
-            left++
-            right--
+    let sen = s.toLowerCase().trim(" ")
+    let recur = function(s, left, right){
+        if(left >= right) return true
+        if(!string.includes(s[left]) && !num.includes(s[left])){
+            return recur(s, ++left, right)
         }
-        else return false
+        if(!string.includes(s[right]) && !num.includes(s[right])){
+            return recur(s, left, --right)
+        }
+        if(s[left] === s[right]){
+            return recur(s, ++left, --right)
+        }
+        return false
     }
-    return true
+    return recur(sen, 0, sen.length - 1)
 };
