@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0069-sqrtx](https://github.com/KiroSenpai3/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KiroSenpai3/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/KiroSenpai3/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KiroSenpai3/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KiroSenpai3/DSA/tree/master/0779-k-th-symbol-in-grammar) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KiroSenpai3/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/KiroSenpai3/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KiroSenpai3/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KiroSenpai3/DSA/tree/master/0779-k-th-symbol-in-grammar) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KiroSenpai3/DSA/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/KiroSenpai3/DSA/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KiroSenpai3/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Tree
 |  |
