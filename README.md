@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/KiroSenpai3/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KiroSenpai3/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/KiroSenpai3/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KiroSenpai3/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KiroSenpai3/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KiroSenpai3/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KiroSenpai3/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiroSenpai3/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KiroSenpai3/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/KiroSenpai3/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KiroSenpai3/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/KiroSenpai3/DSA/tree/master/0704-binary-search) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiroSenpai3/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KiroSenpai3/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KiroSenpai3/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KiroSenpai3/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KiroSenpai3/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KiroSenpai3/DSA/tree/master/0567-permutation-in-string) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions
 | ------- |
 | [0078-subsets](https://github.com/KiroSenpai3/DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/KiroSenpai3/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/KiroSenpai3/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KiroSenpai3/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Tree
 |  |
@@ -425,4 +429,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KiroSenpai3/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KiroSenpai3/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KiroSenpai3/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
