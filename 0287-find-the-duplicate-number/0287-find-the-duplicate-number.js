@@ -3,9 +3,9 @@
  * @return {number}
  */
 var findDuplicate = function(nums) {
-    let maap = new Map()
+    let set = new Set()
     for(let num of nums){
-        if(maap.get(num) === 1) return num
-        maap.set(num, 1)
+        if(set.has(num)) return num
+        set.add(num)
     }
 };
