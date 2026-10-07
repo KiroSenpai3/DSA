@@ -87,6 +87,7 @@ A collection of LeetCode questions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KiroSenpai3/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1920-build-array-from-permutation](https://github.com/KiroSenpai3/DSA/tree/master/1920-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/KiroSenpai3/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KiroSenpai3/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions
 | ------- |
 | [0844-backspace-string-compare](https://github.com/KiroSenpai3/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/KiroSenpai3/DSA/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/KiroSenpai3/DSA/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
