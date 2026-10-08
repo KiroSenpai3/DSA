@@ -81,6 +81,7 @@ A collection of LeetCode questions
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KiroSenpai3/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KiroSenpai3/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KiroSenpai3/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KiroSenpai3/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions
 | [0904-fruit-into-baskets](https://github.com/KiroSenpai3/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KiroSenpai3/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KiroSenpai3/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KiroSenpai3/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiroSenpai3/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/KiroSenpai3/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KiroSenpai3/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions
 | [0455-assign-cookies](https://github.com/KiroSenpai3/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/KiroSenpai3/DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KiroSenpai3/DSA/tree/master/0881-boats-to-save-people) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KiroSenpai3/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KiroSenpai3/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/KiroSenpai3/DSA/tree/master/2418-sort-the-people) |
@@ -446,4 +449,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KiroSenpai3/DSA/tree/master/0287-find-the-duplicate-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KiroSenpai3/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
