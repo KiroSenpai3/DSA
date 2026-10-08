@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0509-fibonacci-number](https://github.com/KiroSenpai3/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KiroSenpai3/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/KiroSenpai3/DSA/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/KiroSenpai3/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions
 | [0994-rotting-oranges](https://github.com/KiroSenpai3/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/KiroSenpai3/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KiroSenpai3/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/KiroSenpai3/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KiroSenpai3/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KiroSenpai3/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KiroSenpai3/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
